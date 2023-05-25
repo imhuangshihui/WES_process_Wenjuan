@@ -1,0 +1,12 @@
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWH55;qsub -cwd -l vf=60G bwa.PWH55_HN3K3DSXX_L4.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWH55Sis1;qsub -cwd -l vf=60G bwa.PWH55Sis1_HN3K3DSXX_L2.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWH55Sis2;qsub -cwd -l vf=60G bwa.PWH55Sis2_HN3K3DSXX_L2.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWH55Sis2;qsub -cwd -l vf=60G bwa.PWH55Sis2_HTM37DSXX_L2.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWH55Wife;qsub -cwd -l vf=60G bwa.PWH55Wife_HN3K3DSXX_L4.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWH55Wife;qsub -cwd -l vf=60G bwa.PWH55Wife_HTM37DSXX_L2.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWHA000055NE1;qsub -cwd -l vf=60G bwa.PWHA000055NE1_HMJ5GDSXX_L4.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWHA000055NE1;qsub -cwd -l vf=60G bwa.PWHA000055NE1_HNHY2DSXX_L3.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWHA000055NE1;qsub -cwd -l vf=60G bwa.PWHA000055NE1_HNHY2DSXX_L4.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWHA000055SO2;qsub -cwd -l vf=60G bwa.PWHA000055SO2_HMJ5GDSXX_L2.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWHA000055SO2;qsub -cwd -l vf=60G bwa.PWHA000055SO2_HNHY2DSXX_L3.sh
+cd /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/02.BAM/PWHA000055SO2;qsub -cwd -l vf=60G bwa.PWHA000055SO2_HNHY2DSXX_L4.sh
