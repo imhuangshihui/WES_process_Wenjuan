@@ -1,0 +1,10 @@
+TrimmomaticPE: Started with arguments:
+ -threads 48 -trimlog trim.log /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/00.data/raw_data/PWH55/PWH55_HN3K3DSXX_L4_1.fq.gz /mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/00.data/raw_data/PWH55/PWH55_HN3K3DSXX_L4_2.fq.gz PWH55.paired_R1.fq.gz PWH55.unpaired_R1.fq.gz PWH55.paired_R2.fq.gz PWH55.unpaired_R2.fq.gz ILLUMINACLIP:/mnt/hwstor9k_data1/ccgmtest/work/PWHA55pedigree/01.cleanData/Truseq_adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'GATCGGAAGAGCACACGTCTGAACTCCAGTCACATCACGATCTCGTATGCCGTCTTCTGCTTG'
+Using Long Clipping Sequence: 'AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'CAAGCAGAAGACGGCATACGAGATCGTGATGTGACTGGAGTTCAGACGTGTGCTCTTCCGATC'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT'
+ILLUMINACLIP: Using 0 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 395364434 Both Surviving: 388058893 (98.15%) Forward Only Surviving: 4115728 (1.04%) Reverse Only Surviving: 2562258 (0.65%) Dropped: 627555 (0.16%)
+TrimmomaticPE: Completed successfully
